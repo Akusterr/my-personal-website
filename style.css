@@ -1,3 +1,23 @@
 body {
-    background: powderblue;
+    text-align: center;
+    background: #163950;
+    display: block;
+    margin: 75px;
+    padding: 100px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium';
+    font-size: 20px;
+    font-weight: 100;
+
 }
+.nameHeader {
+    text-align: center;
+    color: #CED7E1;
+    font-size: 50px;
+    text-decoration: underline;
+    font-family: 'Franklin Gothic Medium';
+}
+.bio {
+    color: #CED7E1;
+}
+
