@@ -1,5 +1,5 @@
 
-const h2 = document.createElement("h2");
-h2.textContent = "This content added by JavaScript";
 
-document.querySelector("body").appendChild(h2);
+let greetingOne = prompt("What is your first name?");
+let fullGreeting =`Hello there ${greetingOne}, Welcome to my page!`;
+alert(fullGreeting);
